@@ -1,0 +1,15 @@
+    DEVICE_OBJECT* 蒼龍 = nullptr;
+    DRIVER_OBJECT* 玄武 = nullptr;
+->DriverStart = 0xFFFFF8027A910000;
+->DriverSize = 0x0002A000;
+->DriverSection = 0x0000000000000000;
+
+:\Device\DiskDriver
+\DosDevices\DiskDriver
+KERNEL_MODE
+10.0.26100
+PE32+
+AMD64
+0007
+00001000
+

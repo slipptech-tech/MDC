@@ -1,0 +1,7 @@
+License provided by github.com/slipptech-tech
+License provided by itch.io/slipptech
+
+LICENSE:
+CODE - MIT
+SOURCE - APACHE-2
+IDEA - MIT
