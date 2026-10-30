@@ -109,3 +109,13 @@ See [LICENSE](LICENSE) for details.
   *Developed by Slipp Tech*
 
 </div>
+
+<p align="center">
+  <a href="https://ko-fi.com/SlippTech">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="42">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/SLIPPTECH">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20SlippTech-FFDD00?style=for-the-badge&logoColor=black&labelColor=FFDD00" alt="Buy Me a Coffee" height="42">
+  </a>
+</p>
